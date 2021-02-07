@@ -1,0 +1,28 @@
+.formAdd {
+    background-color: #ffffff;
+    position: absolute;
+    z-index: 5;
+    top: 175px;
+    left: 475px;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.formAdd > img{
+    position: absolute;
+    right: -14px;
+    top: -14px;
+}
+.photo {
+    overflow: hidden;
+    background-color: #fffffb;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    text-align: center;
+    vertical-align: middle;
+}
+.photo img{
+    max-width: 100%;
+    max-height: 100%;
+}
